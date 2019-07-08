@@ -27,3 +27,9 @@ https://searchsecurity.techtarget.com/definition/authentication-authorization-an
 https://www.linuxlinks.com/networkauthenticationservers/
 
 https://linuxscriptshub.com/setup-radius-server-ubuntu-1604/
+
+https://www.packet6.com/install-freeradius-ubuntu-server/
+
+https://networkradius.com/doc/3.0.10/index.html
+
+https://www.tutorialspoint.com/radius/what_is_radius
