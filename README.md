@@ -35,3 +35,7 @@ https://networkradius.com/doc/3.0.10/index.html
 https://www.tutorialspoint.com/radius/what_is_radius
 
 https://community.rsa.com/docs/DOC-77458
+
+https://www.sonicwall.com/support/knowledge-base/?sol_id=170503789509355
+
+
