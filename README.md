@@ -38,4 +38,7 @@ https://community.rsa.com/docs/DOC-77458
 
 https://www.sonicwall.com/support/knowledge-base/?sol_id=170503789509355
 
+https://ribboncommunications.com/company/get-help/glossary/diameter-protocol
+
+https://www.f5.com/services/resources/glossary/diameter-protocol
 
